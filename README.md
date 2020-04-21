@@ -1,1 +1,1 @@
-# Simple-Report-LaTeX-Template
+# Simple Report LaTeX Template
